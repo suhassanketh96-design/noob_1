@@ -1,0 +1,7 @@
+{
+  "name": "NexusCore Systems",
+  "description": "A high-performance gaming PC ecosystem featuring a custom builder, AI-driven part recommendations, and interactive performance benchmarking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
