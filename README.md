@@ -6,6 +6,7 @@
 
 This contains everything you need to run your app locally.
 
+This is imported from truthteller 101
 View your app in AI Studio: https://ai.studio/apps/drive/1tSkVfGYd8tyR-hvcW_CnXsvF1WxG_ufM
 
 ## Run Locally
